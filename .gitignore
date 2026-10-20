@@ -1,0 +1,5 @@
+.DS_Store
+*.bak
+config.plist.bak*
+config.plist.nullmoth-*
+*.swp
